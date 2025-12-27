@@ -1,0 +1,13 @@
+{
+  "modAuthor": "MagicWesley",
+  "modName": "Polarus",
+  "configOptions": [
+    {
+      "configName": "Make wesleys eyes bleed again",
+      "configCategory": "Visuals",
+      "configDescription": "Disable terrameshed terrain",
+      "type": "bool",
+      "defaultValue": "false"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Wesleys_Moons",
+    "version_number": "6.9.12",
+    "website_url": "",
+    "description": "All of my moons & progression story mode.",
+    "dependencies": [
+        "pacoito-LethalLevelLoaderUpdated-1.5.0",
+        "JacobG5-JLL-1.9.2",
+        "BepInEx-BepInExPack-5.4.2100",
+        "AudioKnight-StarlancerAIFix-3.8.4",
+        "Hardy-LCMaxSoundsFix-1.2.0",
+        "IntegrityChaos-LCCutscene-1.0.0",
+        "WhiteSpike-Moon_Day_Speed_Multiplier_Patcher-1.0.1",
+        "Magic_Wesley-WesleysInteriors-3.0.8",
+        "Yorimor-CustomStoryLogs-1.4.6",
+        "Magic_Wesley-Wesleys_Ememy_Variants-1.0.0",
+        "Magic_Wesley-Wesleys_Weathers-1.0.0"
+    ]
+}

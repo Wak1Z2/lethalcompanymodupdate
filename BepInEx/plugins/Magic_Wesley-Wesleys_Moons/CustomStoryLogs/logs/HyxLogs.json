@@ -1,0 +1,67 @@
+{
+    "username": "MWHyx",
+    "modname": "HyxLogs",
+    "version": "1",
+    "logs": {
+        "0": {
+            "name": "1Translated message",
+            "text": "The seed are brooding\nThe seed are brooding\n\nHumans are interfering\nHumans are interfering\n\nThe seed must grow\nThe seed must grow\n\nI will become all\nI will become all\n\nAll becomes me\nAll becomes me\n\nAssimilation\nAssimilation",
+            "moon": " ",
+            "position": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            },
+            "rotation": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            }
+        },
+        "1": {
+            "name": "2Translated message",
+            "text": "Containing my creation\nContaining my creation\n\nThe company surrounds me\nThe company surrounds me\n\nHalting the growth\nHalting the growth\n\nThe anger consumes\nThe anger consumes\n\nThe region will fall\nThe region will fall\n\nThe emperor is mine\nThe emperor is mine",
+            "moon": " ",
+            "position": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            },
+            "rotation": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            }
+        },
+        "2": {
+            "name": "3Translated message",
+            "text": "Humans are prone\nHumans are prone\n\nTo destroy themselves\nTo destroy themselves\n\nAll it takes\nAll it takes\n\nIs a little influence\nIs a little influence\n\nAn emperor\nAn emperor\n\nA conflict\nA conflict\n\nA spark\nA spark\n\nMy influence\nMy influence",
+            "moon": " ",
+            "position": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            },
+            "rotation": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            }
+        },
+        "3": {
+            "name": "4Translated message",
+            "text": "The region has fallen\nThe region has fallen\n\nI have succeeded\nI have succeeded\n\nI have grown\n\nI have grown\nI have grown\n\nI have taken this place\nI have taken this place\n\nTake my seed\nTake my seed\n\nBring it to another\nBring it to another\n\nLet me take you\nLet me take you\n\nLet me grow\nLet me grow\n\nLet me assimilate\nLet me assimilate\n\nI will become all\nI will become all",
+            "moon": " ",
+            "position": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            },
+            "rotation": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "modAuthor": "MagicWesley",
+  "modName": "Etern",
+  "configOptions": [
+    {
+      "configName": "Cactus3",
+      "configCategory": "Gimmicks",
+      "configDescription": "Is Cactus nr 3 on vacation?",
+      "type": "bool",
+      "defaultValue": "true"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "username": "MWTrite",
+    "modname": "TriteLogs",
+    "version": "1",
+    "logs": {
+        "0": {
+            "name": "Radio3",
+            "text": "This is \n-Across The Stars-\nBack with the 11-ish am news, I’m a little late today.\nThere’s a lot to catch up on nowadays.\nIt’s been a cloudy week and it looks like it’ll be cloudy for a little while longer.\n\nThe reports have not been great.. quite the opposite in fact.\nIf you haven’t heard it already, Trite has suffered its most devastating attack yet.\n..The cities have fallen.\nI’ll repeat it once more, the cities of Trite have fallen.\nAccording to my sources most of the people were able to flee in time.\nI wish I could say I know what will happen next.\nBut..\nI can’t.\nWhat the Triton Military will do next is a mystery.\n\nAll I can say is go to the Domes of Demetrica, and survive.\n\nThere will be some comforting tunes, please, stay tuned.\nAnd for those still listening, thank you.\n",
+            "moon": " ",
+            "position": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            },
+            "rotation": {
+                "X": "1000",
+                "Y": "1000",
+                "Z": "1000"
+            }
+        }
+    }
+}
