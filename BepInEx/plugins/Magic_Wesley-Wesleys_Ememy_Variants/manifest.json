@@ -1,0 +1,11 @@
+{
+    "name": "Wesleys_Ememy_Variants",
+    "version_number": "1.2.1",
+    "website_url": "",
+    "description": "Variants of vanilla enemies for my projects.",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.4.11",
+        "JacobG5-JLL-1.9.2",
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

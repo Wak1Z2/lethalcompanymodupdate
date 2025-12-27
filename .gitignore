@@ -17,7 +17,4 @@ SplitUpdateMod.exe
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.2
-/BepInEx/plugins/Magic_Wesley-Wesleys_Ememy_Variants/
 /BepInEx/plugins/Magic_Wesley-Wesleys_Moons/
-/BepInEx/plugins/Magic_Wesley-Wesleys_Weathers/
-/BepInEx/plugins/Magic_Wesley-WesleysInteriors/

@@ -1,0 +1,15 @@
+{
+    "name": "WesleysInteriors",
+    "version_number": "4.1.14",
+    "website_url": "",
+    "description": "A few new interiors.",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.6.2",
+        "JacobG5-JLL-1.9.2",
+        "BepInEx-BepInExPack-5.4.2100",
+        "Alice-DungeonGenerationPlus-1.4.1",
+        "Evaisa-HookGenPatcher-0.0.5",
+        "Magic_Wesley-Wesleys_Ememy_Variants-1.0.0",
+        "Sniper1_1-WaterAssetRestorer-1.0.1"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Wesleys_Weathers",
+    "version_number": "1.2.8",
+    "website_url": "",
+    "description": "Adds 4 new weathers.",
+    "dependencies": [
+        "JacobG5-JLL-1.9.2",
+        "BepInEx-BepInExPack-5.4.2100",
+        "mrov-WeatherRegistry-0.7.4",
+        "Magic_Wesley-Wesleys_Ememy_Variants-1.0.0",
+        "pacoito-LethalLevelLoaderUpdated-1.5.0"
+    ]
+}
