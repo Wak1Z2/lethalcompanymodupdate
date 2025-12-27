@@ -1,0 +1,7 @@
+{
+  "name": "LCLocalFixes",
+  "version_number": "0.0.2",
+  "website_url": "",
+  "description": "Tweaks to oddities in the vanilla game or in other mods that bothered me.",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2304"]
+}

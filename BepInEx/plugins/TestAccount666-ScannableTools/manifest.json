@@ -1,0 +1,9 @@
+{
+    "name": "ScannableTools",
+    "version_number": "1.1.4",
+    "website_url": "https://github.com/Test-Account666/LethalCompany-ScannableTools",
+    "description": "This mod allows you to scan tools, which are normally not scannable.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

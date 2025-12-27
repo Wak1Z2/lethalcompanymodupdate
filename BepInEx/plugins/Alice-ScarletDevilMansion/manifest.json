@@ -1,0 +1,15 @@
+{
+    "name": "ScarletDevilMansion",
+    "version_number": "2.3.3",
+    "website_url": "https://git.touhou.dev/Raphtalia/SDM_LethalCompany_Mod/src/branch/main/ScarletMansion/ScarletMansion",
+    "description": "Adds the Scarlet Devil Mansion from Touhou as a possible dungeon to the snow maps.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+		"Evaisa-LethalLib-1.1.1",
+		"IAmBatby-LethalLevelLoader-1.4.5",
+		"Alice-DungeonGenerationPlus-1.4.1",
+		"Evaisa-FixPluginTypesSerialization-1.1.4",
+		"Lordfirespeed-OdinSerializer-2022.11.9",
+		"fumiko-CullFactory-2.0.0"
+    ]
+}

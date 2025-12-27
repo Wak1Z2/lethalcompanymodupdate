@@ -1,0 +1,9 @@
+{
+    "name": "Advance_Features",
+    "version_number": "1.1.0",
+	"website_url": "https://github.com/unluckyjori/Advanced-Features",
+    "description": "Very advanced features!",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

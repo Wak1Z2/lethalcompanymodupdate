@@ -1,0 +1,10 @@
+{
+    "name": "RagdollDesyncFix",
+    "author": "Zaggy1024",
+    "version_number": "0.0.2",
+    "website_url": "https://github.com/Zaggy1024/LC_RagdollDesyncFix/",
+    "description": "Fixes a bug that can cause player bodies to be non-interactable on clients.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

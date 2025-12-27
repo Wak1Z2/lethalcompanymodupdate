@@ -1,0 +1,7 @@
+{
+    "name": "ToiletPaperNormalizer",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Makes it so toilet paper doesn't cover the whole screen when carried",
+    "dependencies": []
+}

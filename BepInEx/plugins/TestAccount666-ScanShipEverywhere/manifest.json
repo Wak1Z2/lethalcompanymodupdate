@@ -1,0 +1,9 @@
+{
+    "name": "ScanShipEverywhere",
+    "version_number": "2.0.2",
+    "website_url": "https://github.com/Test-Account666/LethalCompany-ScanShipEverywhere/",
+    "description": "Improves scan nodes for you",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

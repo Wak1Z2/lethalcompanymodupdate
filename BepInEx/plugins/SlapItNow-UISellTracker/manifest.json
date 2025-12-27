@@ -1,0 +1,9 @@
+﻿{
+    "name": "UISellTracker",
+    "version_number": "22.0.5",
+    "website_url": "",
+    "description": "Displays how fulfilled the quota is, as well as the expected overtime bonus in the corner of your screen at the Company building",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

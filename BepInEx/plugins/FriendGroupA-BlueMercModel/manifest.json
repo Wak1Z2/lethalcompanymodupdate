@@ -1,0 +1,11 @@
+{
+    "name": "BlueMercModel",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "A mod that adds Blue Merc as a suit using ModelReplacementAPI.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+	    "BunyaPineTree-ModelReplacementAPI-2.3.1",
+	    "x753-More_Suits-1.5.2"
+    ]
+}

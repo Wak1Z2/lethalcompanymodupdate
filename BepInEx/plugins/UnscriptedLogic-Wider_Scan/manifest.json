@@ -1,0 +1,9 @@
+{
+	"name": "Wider_Scan",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Increases the thickness and radius of the scan, making it slightly easier to scan objects.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

@@ -1,0 +1,29 @@
+Items:
+- ItemName: GiftBox
+  Count: 1
+- ItemName: Shovel
+  Count: 1
+- ItemName: ProFlashlight
+  Count: 1
+Gift:
+- Name: Meteor
+  Rarity: 2
+  Message: <color=yellow>{player}：女士们先生们！一起来看</color><color=red>流星雨</color>！
+- Name: GoldBar
+  Rarity: 5
+  Value: 100-300
+- Name: Candy
+  Rarity: 1
+  Value: 999
+- Name: Key
+  Rarity: 10
+- Name: Turret
+  Rarity: 5
+- Name: Landmine
+  Rarity: 5
+- Name: Nutcracker
+  Rarity: 10
+- Name: HoarderBug
+  Rarity: 10
+- Name: Null
+  Rarity: 30

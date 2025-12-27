@@ -1,0 +1,7 @@
+{
+    "name": "BepInEx_GUI",
+    "version_number": "3.1.10",
+    "website_url": "https://github.com/CatsArmy/BepInEx.GUI",
+    "description": "Graphical User Interface meant to replace the regular console host that is used by BepInEx when the config setting is enabled.",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}

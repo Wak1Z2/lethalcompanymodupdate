@@ -1,0 +1,9 @@
+{
+    "name": "GoodItemScan",
+    "version_number": "1.14.0",
+    "website_url": "https://github.com/Test-Account666/LethalCompany-GoodItemScan/",
+    "description": "Yet another scan mod",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}

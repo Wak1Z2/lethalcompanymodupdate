@@ -1,0 +1,9 @@
+{
+  "name": "ReXuvination",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/XuuXiaolan/ReXuvination",
+  "description": "Mod that currently completely optimises collision performance in the game.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "AmmoIndicator",
+    "description": "Adds an indicator for how much ammo is loaded in the tooltip.",
+    "version_number": "1.0.1",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ],
+    "website_url": "https://twitter.com/spaghettitron"
+}

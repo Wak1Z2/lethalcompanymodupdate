@@ -1,0 +1,9 @@
+{
+    "name" : "LethalAPI_Terminal",
+    "description" : "A fully fledged modding API for everything to do with the on-ship Terminal. Including custom commands, interactions, terminal overhauls, conditional command overrides, and more.",
+    "version_number" : "1.0.1",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ],
+    "website_url" : "https://github.com/LethalCompany/LethalAPI.Terminal"
+}

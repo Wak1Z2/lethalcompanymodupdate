@@ -1,0 +1,7 @@
+{
+    "name": "NMCrosshair",
+    "version_number": "1.1.2",
+    "website_url": "",
+    "description": "Implements a replica of the crosshair from my unreleased Nutcracker Massacre mod.",
+    "dependencies": [ "BepInEx-BepInExPack-5.4.2100" ]
+}

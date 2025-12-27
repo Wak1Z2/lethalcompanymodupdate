@@ -1,0 +1,10 @@
+{
+  "name": "Pocket_Rooms_MelanieMelicious",
+  "version_number": "1.0.3",
+  "website_url": "",
+  "description": "Adds pocket room doors that you (and enemies) can enter! Perfect for when wider 3-story ship with extended catwalk is still too small. You can find me in the Lethal Company Modding Discord.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+	"TeamXiaolan-DawnLib-0.4.3"
+  ]
+}

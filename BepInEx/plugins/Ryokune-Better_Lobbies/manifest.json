@@ -1,0 +1,11 @@
+{
+  "namespace": "Ryokune",
+  "name": "Better_Lobbies",
+  "description": "Enhance your multiplayer experience by having additional lobby related QoL features in game!",
+  "version_number": "2.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ],
+  "website_url": "https://github.com/VisualError/Better-Lobbies",
+  "FullName": "Ryokune-Better_Lobbies"
+}

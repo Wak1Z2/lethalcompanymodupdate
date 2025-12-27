@@ -1,0 +1,9 @@
+{
+  "name": "LostEnemyFix",
+  "version_number": "1.1.0",
+  "website_url": "https://github.com/JacobG55/LethalCompanyLostEnemyFix",
+  "description": "Fixes EnemyAI's that fail to locate NavMesh by killing them.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}

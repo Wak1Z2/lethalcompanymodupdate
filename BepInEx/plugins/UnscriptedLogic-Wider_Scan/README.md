@@ -1,0 +1,1 @@
+Scan radius feels too small? I beefed it up to cover the entire screen. You still gotta have line of sight to the item for it to be picked up by the scanner but generally any item thats within screen size will be scanned.

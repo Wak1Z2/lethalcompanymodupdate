@@ -1,0 +1,10 @@
+{
+    "name": "LC_Simplified_Chinese_Localization",
+    "version_number": "2.5.0",
+    "website_url": "https://space.bilibili.com/73488768",
+    "description": "v64简中汉化+狐狸兼容原版优化包汉化",
+    "dependencies":[
+		"BepInEx-BepInExPack-5.4.2100",
+		"chuxiaaaa-LoadAllLobby-1.0.4"
+	]
+}

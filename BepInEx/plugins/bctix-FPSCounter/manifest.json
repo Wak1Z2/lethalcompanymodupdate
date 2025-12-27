@@ -1,0 +1,7 @@
+{
+	"name": "FPSCounter",
+	"version_number": "1.4.0",
+	"website_url": "",
+	"description": "A mod that integrates a FPS counter in the HUD",
+	"dependencies": []
+}
